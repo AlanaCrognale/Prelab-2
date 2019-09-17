@@ -13,4 +13,4 @@ IDEA GENERATION: The point of this week's lab is to figure out a cool interactio
 9. Players each hold a button and release at X seconds (known but not displayed), whoever is closest to releasing at exactly X seconds wins
 10. 'Guess' metronome i.e. pick/play X bpm and players try to match the bpm for some time interval by pressing a button to the beat, whoever is closest wins
 
-!=[Prelab](https://github.com/AlanaCrognale/Prelab-2/blob/master/Prelab.png)
+![Prelab](https://github.com/AlanaCrognale/Prelab-2/blob/master/Prelab.png)
